@@ -1,3 +1,7 @@
+<a href="https://laurynas-krp.github.io/">
+        <img src="https://img.shields.io/badge/My%20Portfolio-Explore-brightgreen"/>
+    </a>
+
 ![](https://komarev.com/ghpvc/?username=laurynas-krp-github-username)
 
 # [Your Name] - Quality Assurance Engineer
