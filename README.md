@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=laurynas-krp-github-username)
 
 # [Your Name] - Quality Assurance Engineer
 
