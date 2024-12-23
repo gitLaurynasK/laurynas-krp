@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 # [Your Name] - Quality Assurance Engineer
 
 [![Profile Banner or Logo]](link-to-image)
